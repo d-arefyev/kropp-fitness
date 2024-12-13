@@ -6,5 +6,5 @@ Project created independently using a YouTube [masterclass](https://www.youtube.
 
 ## Skills
 
-- HTML: Structuring web pages, semantic markup, forms.
-- CSS: Responsive design, Flexbox, grid systems, animations, and transitions.
+• HTML: Structuring web pages, semantic markup, forms.  
+• CSS: Responsive design, Flexbox, grid systems, animations, and transitions.
